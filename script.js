@@ -1,6 +1,6 @@
 function decimalToBinary(num) {
   //Write you code here
-	let binaryNumber=num.String(2);
+	let binaryNumber=num.toString(2);
 	return binaryNumber;
   
 }
